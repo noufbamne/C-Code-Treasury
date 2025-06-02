@@ -1,7 +1,7 @@
 # C-Code-Treasury
 Unlock the Power of C!
 
-Welcome to the C-Code-Treasury, a vast collection of 100+ C codes to inspire, educate, and empower you!
+Welcome to the C-Code-Treasury, a vast collection of C codes to inspire, educate, and empower you!
 
 ### Explore. Learn. Code. Repeat.
 
